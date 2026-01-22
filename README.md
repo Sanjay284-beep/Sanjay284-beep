@@ -36,6 +36,6 @@
 
 ## 📊 GitHub Stats
 
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay284-beep&show_icons=true)
+![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjay284-beep&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay284-beep&layout=compact)
