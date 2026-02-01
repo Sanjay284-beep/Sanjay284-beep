@@ -5,7 +5,7 @@
 ## 🌐 Links
 - 🔗 GitHub: https://github.com/Sanjay284-beep  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sanjaynarra  
-- 📧 Email: sanjaynarra23@gmail.com  
+- 📧 Email: narrasanjay7@gmail.com 
 
 ---
 
